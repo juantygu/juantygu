@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm juan camilo gutierrez</h1>
-<h3 align="center">A passionate Web Scraping and RPA Developer</h3>
+<h3 align="center">A passionate  Software Development Web Scraping and RPA Developer</h3>
 
-- 💬 Ask me about **Python , selenium , UiPath , Pulover's Macro Creator**
+- 💬 Ask me about **Python , selenium , UiPath , MySQL Workbench, regex , tkinter**
 
 - 📫 How to reach me **juanguty1508@gmail.com**
 
